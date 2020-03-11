@@ -15,9 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
     <Folder Include="Database\" />
-    <Folder Include="Controllers\" />
     <Folder Include="Pages\UI\Consultas\" />
     <Folder Include="Pages\UI\Registros\" />
   </ItemGroup>
